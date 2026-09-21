@@ -1,5 +1,6 @@
-def text(i):
-    massage = 'Hello'
-    return massage
-i = 0
-print(text(i))
+"""Модуль hello_world: простой пример вывода приветствия."""
+
+
+def text():
+    """Выводит стандартное приветствие."""
+    return "message"
