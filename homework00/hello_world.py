@@ -1,5 +1,3 @@
-def text(i):
-    massage = 'Hello'
-    return massage
-i = 0
-print(text(i))
+def hello():
+    """Выводит стандартное приветствие."""
+    print("Hello, World!")
